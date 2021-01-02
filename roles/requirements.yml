@@ -1,0 +1,4 @@
+---
+- src: git@github.com:wkleinhenz/ansible-auditd.git
+  scm: git
+  version: main
